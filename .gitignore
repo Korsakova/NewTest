@@ -1,0 +1,5 @@
+.idea/replstate.xml
+.idea
+temp/
+.idea/**/dataSources/
+*.zip
